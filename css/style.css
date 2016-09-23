@@ -232,6 +232,9 @@ header {
   line-height: 6rem;
   font-weight: 400;
 }
+.event-subtitle {
+  font-family: courier;
+}
 .event-details {
   display: inline-block;
   margin-top: 30px;
