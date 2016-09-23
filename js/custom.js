@@ -7,7 +7,7 @@
 			'day': 		parseInt($('#countdown').data('day')),
 			'month': 	parseInt($('#countdown').data('month')),
 			'year': 	parseInt($('#countdown').data('year')),
-			'hour': 	0,
+			'hour': 	14,
 			'min': 		0,
 			'sec': 		0
 		},
